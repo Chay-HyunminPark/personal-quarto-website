@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chay Park",
+    "section": "",
+    "text": "Toronto, ON · chay.park@mail.utoronto.ca · LinkedIn\n\n\n\n\n\nHBSc Mathematics, Economics, and Statistics\nToronto, ON\nSeptember 2021 - December 2024\n\n\n\n\n\n\nProgramming Languages: R, Python, SQL, HTML, CSS, MATLAB\nSoftware Tools and Platforms: Figma, GA4, Redash, databricks, Hotjar, beusable, GitHub, Kaggle\n\n\n\n\n\n\n\nAssistant Product Manager\nOn-site - Seoul, S.Korea\nApr 2023 - Nov 2023\n\nDeveloped, implemented, and maintained production timelines across multiple departments.\nAppraised new product ideas and strategized appropriate go-to-market plans.\nFacilitated Scrum, Kanban, and Agile methodologies to enhance KPIs.\nConducted market research to identify competitors for benchmarking and appropriate marketing platforms for advertising.\nMonitored marketing expenses and adjusted strategies based on performance.\nUtilized various analytical tools to monitor business trends and user behaviors.\nProposed UI/UX designs to highlight products and potentially increase sales.\nEngaged in UX writing.\nContacted sales leads, scheduled meetings across different time zones, kept track of records, and took meeting notes.\n\n\n\n\n\n\nResearch Assistant\nRemote - Montréal, QC\nMay 2021 - August 2021\n\nConducted literature reviews and synthesized research findings.\nAssisted in research studies including data collection and analysis.\nTranscribed interviews and highlighted extracts using Audacity.\n\n\n\n\n\n\nCO-OP Project Intern & Junior Product Manager\nRemote - Montréal, QC\nJanuary 2021 - August 2021\n\nManaged project timelines and milestones.\nDeveloped product requirements and user stories.\nConducted research on makerspace usage and community outreach.\n\n\n\n\n\n\n\n\n\nR, GitHub, Posit Cloud\n\nThorough Replication: Replicated ‘The Puzzle of Falling US Birth Rates since the Great Recession’ (Kearney, Levine & Pardue, 2022).\n\nExtension of Previous Research: Extending the analysis to explore additional socio-economic factors.\n\n\n\n\n\nR, GitHub, Posit Cloud\n\nInsight into Crime Trends and Pandemic Impact: Explored the dynamics of crime trends in Toronto from 2014 to 2022, emphasizing the correlation between the COVID-19 pandemic and variations in crime rates.\nComprehensive Data Analysis Utilizing R: Demonstrated a methodological approach by employing R for data analysis.\n\n\n\n\n\n\n\n1st Place in Student Hack, Cookhouse Labs Career Connections, May 2022\n\nSmart I-Health: Applied design thinking methodology to effectively use AI in addressing real-life insurance industry challenges."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chay Park",
+    "section": "",
+    "text": "HBSc Mathematics, Economics, and Statistics\nToronto, ON\nSeptember 2021 - December 2024"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Chay Park",
+    "section": "",
+    "text": "Programming Languages: R, Python, SQL, HTML, CSS, MATLAB\nSoftware Tools and Platforms: Figma, GA4, Redash, databricks, Hotjar, beusable, GitHub, Kaggle"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Chay Park",
+    "section": "",
+    "text": "Assistant Product Manager\nOn-site - Seoul, S.Korea\nApr 2023 - Nov 2023\n\nDeveloped, implemented, and maintained production timelines across multiple departments.\nAppraised new product ideas and strategized appropriate go-to-market plans.\nFacilitated Scrum, Kanban, and Agile methodologies to enhance KPIs.\nConducted market research to identify competitors for benchmarking and appropriate marketing platforms for advertising.\nMonitored marketing expenses and adjusted strategies based on performance.\nUtilized various analytical tools to monitor business trends and user behaviors.\nProposed UI/UX designs to highlight products and potentially increase sales.\nEngaged in UX writing.\nContacted sales leads, scheduled meetings across different time zones, kept track of records, and took meeting notes.\n\n\n\n\n\n\nResearch Assistant\nRemote - Montréal, QC\nMay 2021 - August 2021\n\nConducted literature reviews and synthesized research findings.\nAssisted in research studies including data collection and analysis.\nTranscribed interviews and highlighted extracts using Audacity.\n\n\n\n\n\n\nCO-OP Project Intern & Junior Product Manager\nRemote - Montréal, QC\nJanuary 2021 - August 2021\n\nManaged project timelines and milestones.\nDeveloped product requirements and user stories.\nConducted research on makerspace usage and community outreach."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Chay Park",
+    "section": "",
+    "text": "R, GitHub, Posit Cloud\n\nThorough Replication: Replicated ‘The Puzzle of Falling US Birth Rates since the Great Recession’ (Kearney, Levine & Pardue, 2022).\n\nExtension of Previous Research: Extending the analysis to explore additional socio-economic factors.\n\n\n\n\n\nR, GitHub, Posit Cloud\n\nInsight into Crime Trends and Pandemic Impact: Explored the dynamics of crime trends in Toronto from 2014 to 2022, emphasizing the correlation between the COVID-19 pandemic and variations in crime rates.\nComprehensive Data Analysis Utilizing R: Demonstrated a methodological approach by employing R for data analysis."
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Chay Park",
+    "section": "",
+    "text": "1st Place in Student Hack, Cookhouse Labs Career Connections, May 2022\n\nSmart I-Health: Applied design thinking methodology to effectively use AI in addressing real-life insurance industry challenges."
+  }
+]

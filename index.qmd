@@ -1,0 +1,72 @@
+---
+title: "Chay Park"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+# Chay Hyunmin Park
+
+Toronto, ON · [chay.park@mail.utoronto.ca](mailto:chay.park@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/chay-park-b2727a195)
+
+## Education
+
+### University of Toronto
+- **HBSc Mathematics, Economics, and Statistics**
+- Toronto, ON
+- September 2021 - December 2024
+
+## Skills
+
+- **Programming Languages**: R, Python, SQL, HTML, CSS, MATLAB
+- **Software Tools and Platforms**: Figma, GA4, Redash, databricks, Hotjar, beusable, GitHub, Kaggle
+
+## Work Experience
+
+### Riiid
+- **Assistant Product Manager**
+- On-site - Seoul, S.Korea
+- Apr 2023 - Nov 2023
+  - Developed, implemented, and maintained production timelines across multiple departments.
+  - Appraised new product ideas and strategized appropriate go-to-market plans.
+  - Facilitated Scrum, Kanban, and Agile methodologies to enhance KPIs. 
+  - Conducted market research to identify competitors for benchmarking and appropriate marketing platforms for advertising.
+  - Monitored marketing expenses and adjusted strategies based on performance.
+  - Utilized various analytical tools to monitor business trends and user behaviors. 
+  - Proposed UI/UX designs to highlight products and potentially increase sales.
+  - Engaged in UX writing.
+  - Contacted sales leads, scheduled meetings across different time zones, kept track of records, and took meeting notes.
+
+### Dr. Ann-Louise Davidson, Concordia University
+- **Research Assistant**
+- Remote - Montréal, QC
+- May 2021 - August 2021
+    - Conducted literature reviews and synthesized research findings.
+    - Assisted in research studies including data collection and analysis.
+    - Transcribed interviews and highlighted extracts using Audacity.
+
+### Innovation Lab, Concordia University
+- **CO-OP Project Intern & Junior Product Manager**
+- Remote - Montréal, QC
+- January 2021 - August 2021
+    - Managed project timelines and milestones.
+    - Developed product requirements and user stories.
+    - Conducted research on makerspace usage and community outreach.
+    
+## Projects
+
+### Potential Factors of Decreasing Birth Rates the US since the Great Recession and Beyond
+- R, GitHub, Posit Cloud 
+  - Thorough Replication: Replicated 'The Puzzle of Falling US Birth Rates since the Great Recession' (Kearney, Levine & Pardue, 2022). 
+-  Extension of Previous Research: Extending the analysis to explore additional socio-economic factors. 
+
+### Decoding Toronto's Crime Patterns
+- R, GitHub, Posit Cloud
+  - Insight into Crime Trends and Pandemic Impact: Explored the dynamics of crime trends in Toronto from 2014 to 2022, emphasizing the correlation between the COVID-19 pandemic and variations in crime rates.
+  - Comprehensive Data Analysis Utilizing R: Demonstrated a methodological approach by employing R for data analysis.
+
+## Awards
+
+- **1st Place in Student Hack**, Cookhouse Labs Career Connections, May 2022
+    - Smart I-Health: Applied design thinking methodology to effectively use AI in addressing real-life insurance industry challenges.

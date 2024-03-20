@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chay Hyunmin Park"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - text: About
+        href: about.html
+      - text: Contact
+        href: contact.html
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
