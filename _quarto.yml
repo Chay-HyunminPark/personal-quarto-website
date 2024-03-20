@@ -10,8 +10,6 @@ website:
         text: Home
       - text: About
         href: about.html
-      - text: Contact
-        href: contact.html
 
 format:
   html:
